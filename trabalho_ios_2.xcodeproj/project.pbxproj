@@ -14,6 +14,11 @@
 		999328FD2B0CE5E1006C4350 /* trabalho_ios_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999328FC2B0CE5E1006C4350 /* trabalho_ios_2Tests.swift */; };
 		999329072B0CE5E1006C4350 /* trabalho_ios_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999329062B0CE5E1006C4350 /* trabalho_ios_2UITests.swift */; };
 		999329092B0CE5E1006C4350 /* trabalho_ios_2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999329082B0CE5E1006C4350 /* trabalho_ios_2UITestsLaunchTests.swift */; };
+		999329222B0F7119006C4350 /* ServiceANS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999329212B0F7119006C4350 /* ServiceANS.swift */; };
+		999329262B0F7EF4006C4350 /* ListViewModelANS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999329252B0F7EF4006C4350 /* ListViewModelANS.swift */; };
+		999329282B0F7FE2006C4350 /* ListItemViewANS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999329272B0F7FE2006C4350 /* ListItemViewANS.swift */; };
+		9993292A2B0F9125006C4350 /* ListViewANS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 999329292B0F9125006C4350 /* ListViewANS.swift */; };
+		9993292E2B0FB36E006C4350 /* ListDetailViewANS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9993292D2B0FB36E006C4350 /* ListDetailViewANS.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +49,11 @@
 		999329022B0CE5E1006C4350 /* trabalho_ios_2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = trabalho_ios_2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		999329062B0CE5E1006C4350 /* trabalho_ios_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trabalho_ios_2UITests.swift; sourceTree = "<group>"; };
 		999329082B0CE5E1006C4350 /* trabalho_ios_2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trabalho_ios_2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		999329212B0F7119006C4350 /* ServiceANS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServiceANS.swift; sourceTree = "<group>"; };
+		999329252B0F7EF4006C4350 /* ListViewModelANS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewModelANS.swift; sourceTree = "<group>"; };
+		999329272B0F7FE2006C4350 /* ListItemViewANS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemViewANS.swift; sourceTree = "<group>"; };
+		999329292B0F9125006C4350 /* ListViewANS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewANS.swift; sourceTree = "<group>"; };
+		9993292D2B0FB36E006C4350 /* ListDetailViewANS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListDetailViewANS.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +104,9 @@
 		999328EA2B0CE5E0006C4350 /* trabalho_ios_2 */ = {
 			isa = PBXGroup;
 			children = (
+				999329162B0CE5F7006C4350 /* Views */,
+				999329152B0CE5EC006C4350 /* Service */,
 				999328EB2B0CE5E0006C4350 /* trabalho_ios_2App.swift */,
-				999328ED2B0CE5E0006C4350 /* ContentView.swift */,
 				999328EF2B0CE5E1006C4350 /* Assets.xcassets */,
 				999328F12B0CE5E1006C4350 /* Preview Content */,
 			);
@@ -125,6 +136,26 @@
 				999329082B0CE5E1006C4350 /* trabalho_ios_2UITestsLaunchTests.swift */,
 			);
 			path = trabalho_ios_2UITests;
+			sourceTree = "<group>";
+		};
+		999329152B0CE5EC006C4350 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				999329212B0F7119006C4350 /* ServiceANS.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		999329162B0CE5F7006C4350 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				999328ED2B0CE5E0006C4350 /* ContentView.swift */,
+				999329252B0F7EF4006C4350 /* ListViewModelANS.swift */,
+				999329272B0F7FE2006C4350 /* ListItemViewANS.swift */,
+				999329292B0F9125006C4350 /* ListViewANS.swift */,
+				9993292D2B0FB36E006C4350 /* ListDetailViewANS.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +288,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				999329282B0F7FE2006C4350 /* ListItemViewANS.swift in Sources */,
 				999328EE2B0CE5E0006C4350 /* ContentView.swift in Sources */,
 				999328EC2B0CE5E0006C4350 /* trabalho_ios_2App.swift in Sources */,
+				999329222B0F7119006C4350 /* ServiceANS.swift in Sources */,
+				999329262B0F7EF4006C4350 /* ListViewModelANS.swift in Sources */,
+				9993292A2B0F9125006C4350 /* ListViewANS.swift in Sources */,
+				9993292E2B0FB36E006C4350 /* ListDetailViewANS.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

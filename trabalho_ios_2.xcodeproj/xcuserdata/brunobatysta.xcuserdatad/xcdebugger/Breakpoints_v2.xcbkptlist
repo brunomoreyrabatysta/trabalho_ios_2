@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A6A5FFBE-02D6-4532-A810-74CC629ACF80"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21F579AB-B2A9-45F7-937D-067B7A571CC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "trabalho_ios_2/Service/ServiceANS.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "fetchOperadoraList(page:size:active:sort:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21F579AB-B2A9-45F7-937D-067B7A571CC2 - 91fa52b4d6d5cdff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for trabalho_ios_2.ANSOperadoraService.fetchOperadoraList(page: Swift.Int, size: Swift.Int, active: Swift.Int, sort: Swift.String) async throws -&gt; Swift.Array&lt;trabalho_ios_2.ANSOperadoraSuplementar&gt;"
+                  moduleName = "trabalho_ios_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunobatysta/Documents/iesb/Disciplinas/08_Desenvolvimento_para_iOS_Apple_2/Trabalhos/trabalho_ios_2/trabalho_ios_2/Service/ServiceANS.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "784">
+               </Location>
+               <Location
+                  uuid = "21F579AB-B2A9-45F7-937D-067B7A571CC2 - 5fedd2eb1a8389d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for trabalho_ios_2.ANSOperadoraService.fetchOperadoraList(page: Swift.Int, size: Swift.Int, active: Swift.Int, sort: Swift.String) async throws -&gt; Swift.Array&lt;trabalho_ios_2.ANSOperadoraSuplementar&gt;"
+                  moduleName = "trabalho_ios_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunobatysta/Documents/iesb/Disciplinas/08_Desenvolvimento_para_iOS_Apple_2/Trabalhos/trabalho_ios_2/trabalho_ios_2/Service/ServiceANS.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "21F579AB-B2A9-45F7-937D-067B7A571CC2 - de31c840d9ec89e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for trabalho_ios_2.ANSOperadoraService.fetchOperadoraList(page: Swift.Int, size: Swift.Int, active: Swift.Int, sort: Swift.String) async throws -&gt; Swift.Array&lt;trabalho_ios_2.ANSOperadoraSuplementar&gt;"
+                  moduleName = "trabalho_ios_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunobatysta/Documents/iesb/Disciplinas/08_Desenvolvimento_para_iOS_Apple_2/Trabalhos/trabalho_ios_2/trabalho_ios_2/Service/ServiceANS.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "21F579AB-B2A9-45F7-937D-067B7A571CC2 - 842c0506c67727e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for trabalho_ios_2.ANSOperadoraService.fetchOperadoraList(page: Swift.Int, size: Swift.Int, active: Swift.Int, sort: Swift.String) async throws -&gt; Swift.Array&lt;trabalho_ios_2.ANSOperadoraSuplementar&gt;"
+                  moduleName = "trabalho_ios_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunobatysta/Documents/iesb/Disciplinas/08_Desenvolvimento_para_iOS_Apple_2/Trabalhos/trabalho_ios_2/trabalho_ios_2/Service/ServiceANS.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70E5EABC-8C40-46F4-8BB3-159CDBFA3D0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "trabalho_ios_2/Service/ServiceANS.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "fetchOperadoraList(page:size:active:sort:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D06F6A17-E3ED-451A-821C-E4F1EFBC7F17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "trabalho_ios_2/Service/ServiceANS.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "fetchOperadoraList(page:size:active:sort:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D06F6A17-E3ED-451A-821C-E4F1EFBC7F17 - de31c840d9ec89af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for trabalho_ios_2.ANSOperadoraService.fetchOperadoraList(page: Swift.Int, size: Swift.Int, active: Swift.Int, sort: Swift.String) async throws -&gt; Swift.Array&lt;trabalho_ios_2.ANSOperadoraSuplementar&gt;"
+                  moduleName = "trabalho_ios_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunobatysta/Documents/iesb/Disciplinas/08_Desenvolvimento_para_iOS_Apple_2/Trabalhos/trabalho_ios_2/trabalho_ios_2/Service/ServiceANS.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  uuid = "D06F6A17-E3ED-451A-821C-E4F1EFBC7F17 - de31c840d9ec89af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for trabalho_ios_2.ANSOperadoraService.fetchOperadoraList(page: Swift.Int, size: Swift.Int, active: Swift.Int, sort: Swift.String) async throws -&gt; Swift.Array&lt;trabalho_ios_2.ANSOperadoraSuplementar&gt;"
+                  moduleName = "trabalho_ios_2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunobatysta/Documents/iesb/Disciplinas/08_Desenvolvimento_para_iOS_Apple_2/Trabalhos/trabalho_ios_2/trabalho_ios_2/Service/ServiceANS.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E620BDF-764A-4F7D-AA78-C192038A9CFC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "trabalho_ios_2/Service/ServiceANS.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1838FDC3-FA5C-4A49-87EE-E25A32B6F5CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "trabalho_ios_2/Service/ServiceANS.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CFACBB3-FA8C-40C6-878F-BD7E2332CDFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "trabalho_ios_2/Views/ListViewModelANS.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "filteredListItemModelsANS"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
